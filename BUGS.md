@@ -18,7 +18,7 @@
 **Comportamento esperado:** Deve ser avançado para tela "Selecione seu curso de Graduação" com sucesso.
 **Comportamento atual:** è apresentada uma linha vermelha em volta da opção e não avança.
 
-## Bug 3: Não tem meni acesso ao candidato cadastrado
+## Bug 3: Não tem menu acesso ao candidato cadastrado
 **Descrição:** Portal não tem opção de acesso ao cadidato já cadastrado(https://developer.grupoa.education/subscription/authentication/login).
 **Passos para reproduzir:** 
 1. Acesse a página de principal.
