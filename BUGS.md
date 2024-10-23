@@ -1,28 +1,28 @@
-## Bug 1: Lista de Curso de GraduaÁ„o apresenta opÁıes de PÛs-GraduaÁ„o
-**DescriÁ„o:** Ao selecionar o nivel de ensino "GraduaÁ„o", a aplicaÁ„o apresenta lista de cursos com Mestrado e Doutorado.
+## Bug 1: Lista de Curso de Gradua√ß√£o apresenta op√ß√µes de P√≥s-Gradua√ß√£o
+**Descri√ß√£o:** Ao selecionar o nivel de ensino "Gradua√ß√£o", a aplica√ß√£o apresenta lista de cursos com Mestrado e Doutorado.
 **Passos para reproduzir:** 
-1. Acesse a p·gina de principal.
-2. Selecione o nivel de ensino "GraduaÁ„o".
-3. Abra a opÁ„o "Selecione um curso...".
-**Comportamento esperado:** A lista deve conter cursos de graduÁ„o com sucesso.
-**Comportamento atual:** A lista È apresentada contendo cursos que n„o s„o de graduaÁ„o.
+1. Acesse a p√°gina de principal.
+2. Selecione o nivel de ensino "Gradua√ß√£o".
+3. Abra a op√ß√£o "Selecione um curso...".
+**Comportamento esperado:** A lista deve conter cursos de gradu√ß√£o com sucesso.
+**Comportamento atual:** A lista √© apresentada contendo cursos que n√£o s√£o de gradua√ß√£o.
 
 
-## Bug 1: Erro ao voltar para o tela inicial e selecionar o mesmo nivel de ensino
-**DescriÁ„o:** Ao selecionar o nivel de ensino "GraduaÁ„o" quando voltamos a aplicaÁ„o n„o permite selecionar a mesma opÁ„o.
+## Bug 2: Erro ao voltar para o tela inicial e selecionar o mesmo nivel de ensino
+**Descri√ß√£o:** Ao selecionar o nivel de ensino "Gradua√ß√£o" quando voltamos a aplica√ß√£o n√£o permite selecionar a mesma op√ß√£o.
 **Passos para reproduzir:** 
-1. Acesse a p·gina de principal.
-2. Selecione o nivel de ensino "GraduaÁ„o".
+1. Acesse a p√°gina de principal.
+2. Selecione o nivel de ensino "Gradua√ß√£o".
 3. Click em "Voltar".
-4. Selecione o nivel de ensino "GraduaÁ„o".
-**Comportamento esperado:** Deve ser avanÁado para tela "Selecione seu curso de GraduaÁ„o" com sucesso.
-**Comportamento atual:** Ë apresentada uma linha vermelha em volta da opÁ„o e n„o avanÁa.
+4. Selecione o nivel de ensino "Gradua√ß√£o".
+**Comportamento esperado:** Deve ser avan√ßado para tela "Selecione seu curso de Gradua√ß√£o" com sucesso.
+**Comportamento atual:** √® apresentada uma linha vermelha em volta da op√ß√£o e n√£o avan√ßa.
 
-## Bug 1: N„o tem meni acesso ao candidato cadastrado
-**DescriÁ„o:** Portal n„o tem opÁ„o de acesso ao cadidato j· cadastrado(https://developer.grupoa.education/subscription/authentication/login).
+## Bug 3: N√£o tem meni acesso ao candidato cadastrado
+**Descri√ß√£o:** Portal n√£o tem op√ß√£o de acesso ao cadidato j√° cadastrado(https://developer.grupoa.education/subscription/authentication/login).
 **Passos para reproduzir:** 
-1. Acesse a p·gina de principal.
-**Comportamento esperado:** Deve ser apresentada opÁ„o para caditados j· cadastrados acessar seu portal com sucesso.
-**Comportamento atual:** n„o existe opÁ„o para acesso para quem ja È cadastrado.
+1. Acesse a p√°gina de principal.
+**Comportamento esperado:** Deve ser apresentada op√ß√£o para caditados j√° cadastrados acessar seu portal com sucesso.
+**Comportamento atual:** n√£o existe op√ß√£o para acesso para quem ja √© cadastrado.
 
 
