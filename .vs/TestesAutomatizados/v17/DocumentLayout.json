@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\TestesAutomatizados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestesAutomatizados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\StepDefinitions\\GraduacaoSteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StepDefinitions\\GraduacaoSteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\Features\\TestesE2E_Graduacao.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\TestesE2E_Graduacao.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\TestesAutomatizados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestesAutomatizados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\BUGS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,19 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TestesAutomatizados.csproj",
               "DocumentMoniker": "C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\TestesAutomatizados.csproj",
               "RelativeDocumentMoniker": "TestesAutomatizados.csproj",
               "ToolTip": "C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\TestesAutomatizados.csproj",
               "RelativeToolTip": "TestesAutomatizados.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T14:08:18.961Z"
+              "WhenOpened": "2024-10-23T14:08:18.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TestesE2E_Graduacao.feature.cs",
               "DocumentMoniker": "C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\Features\\TestesE2E_Graduacao.feature.cs",
               "RelativeDocumentMoniker": "Features\\TestesE2E_Graduacao.feature.cs",
@@ -90,12 +91,11 @@
               "RelativeToolTip": "Features\\TestesE2E_Graduacao.feature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:58:20.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:58:20.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GraduacaoSteps.cs",
               "DocumentMoniker": "C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\StepDefinitions\\GraduacaoSteps.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\GraduacaoSteps.cs",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestesE2E_Graduacao.feature",
               "DocumentMoniker": "C:\\Users\\Lucas Oliveira\\repos\\TestesAutomatizados\\Features\\TestesE2E_Graduacao.feature",
               "RelativeDocumentMoniker": "Features\\TestesE2E_Graduacao.feature",
@@ -116,8 +116,7 @@
               "RelativeToolTip": "Features\\TestesE2E_Graduacao.feature",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-22T14:17:20.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T14:17:20.122Z"
             }
           ]
         }
